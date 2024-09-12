@@ -1,4 +1,6 @@
 Implicit Null Checks in JVM
+**Compiler optimization**
+
 # Introduction
 This blog post explores the concept of Implicit Null Checks, a JVM optimization technique discussed in JVM Anatomy Quark #25. This optimization aims to improve performance by reducing explicit null checks in compiled code.
 
