@@ -1,12 +1,12 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
-    keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
-    url: "https://xxx.com",
-    baseUrl: "https://xxx.com",
-    image: "https://xxx.com/og-image.png",
+    title: "Joey Li",
+    name: "Joey Li",
+    description: "Joey Li's blog",
+    keywords: ["AI", "Full Stack Developer"],
+    url: "https://joeyli.com",
+    baseUrl: "https://joeyli.com",
+    image: "https://joeyli.com/og-image.png",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -25,26 +25,26 @@ export const config = {
     },
   },
   author: {
-    name: "Your Name",
-    email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    name: "Joey Li",
+    email: "joeylee1997.1997@gmail.com",
+    bio: "Passion begets persistence",
   },
   social: {
-    github: "https://github.com/xxx",
+    github: "https://github.com/joeyleeeeeee97",
     x: "https://x.com/xxx",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
     buyMeACoffee: "https://www.buymeacoffee.com/xxx",
   },
   giscus: {
-    repo: "guangzhengli/hugo-ladder-exampleSite",
-    repoId: "R_kgDOHyVOjg",
-    categoryId: "DIC_kwDOHyVOjs4CQsH7",
+    repo: "joeyleeeeeee97/hugo-ladder-exampleSite",
+    repoId: "R_kgDOPcTS0w",
+    categoryId: "DIC_kwDOPcTS084CuEHA",
   },
   navigation: {
     main: [
       { 
-        title: "文章", 
+        title: "Blog", 
         href: "/blog",
       },
     ],
@@ -56,7 +56,7 @@ export const config = {
     },
     openGraph: {
       type: "website" as const,
-      locale: "zh_CN",
+      locale: "en_US",
     },
     twitter: {
       card: "summary_large_image" as const,
